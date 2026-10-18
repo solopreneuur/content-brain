@@ -9,10 +9,14 @@ _Last updated 2026-10-18_
 
 Also on the plate but lower: newsletter admin, building Creator Intelligence (could eventually feed scripts, but the finesse method is the proven one right now). Feeling a bit overwhelmed by order and ROI.
 
-## ICP
-- Locked in: 20-25 year-old internet native male who wants to become an entrepreneur and loves self improvement.
+## ICP: still being discovered
+Three levels of certainty:
+1. **Certain:** 20-25 year-old internet native male who wants to become an entrepreneur and loves self improvement.
+2. **Mostly true:** the fears, feelings and motivations in `icp.md`. They're specific to this archetype, so they hold broadly, but they aren't settled details.
+3. **Being discovered:** exactly what he teaches and exactly what this person wants from him. The videos are how he's finding out. Don't treat any one answer here as fixed or judge scripts against it as if it were.
+
 - Working version (from question to Mino): 21-year-old internet native, super ambitious aspiring entrepreneur, not necessarily building anything yet, obsessed with learning about business and improving his own habits.
-- Still unclear: which part of what this person wants he actually teaches. Wants it dead simple, like Soojin ("young women who want to stay up to date with AI").
+- Wants the eventual answer dead simple, like Soojin ("young women who want to stay up to date with AI").
 
 ## Theme he's drawn to
 - Founders/business + human behavior: studying greats, business case studies, psychology, plus his own perspective. Hasn't found one specific thing to teach yet.

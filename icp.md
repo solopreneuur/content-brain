@@ -2,7 +2,7 @@
 
 **Confirmed:** My ideal viewer is a 20-25 year-old internet native male who wants to become an entrepreneur and loves self improvement.
 
-_Everything below is still being figured out. Treat it as working draft, not settled._
+_Below: the fears, feelings and motivations are mostly true for this archetype. What he teaches and exactly what this person wants from him are still being discovered through the videos. Treat those parts as a working draft, not settled._
 
 ---
 
