@@ -33,7 +33,7 @@ Three levels of certainty:
 ## Performance so far (his numbers and reads)
 
 ### Fully original
-- **China video**: 1M views. Absolute outlier, not repeatable.
+- **China video**: 1M views, ~500 follows. Absolute outlier, not repeatable. Weigh it low: huge reach but poor conversion.
 - **Beat Harvard kids for 120k job offer**: 3.3k views, 3 follows. Felt most like himself; own story, enthusiasm there; lots of effort. Text hook strong, this version's spoken hook weak.
 - **Mamdani**: 7.6k views, 0 follows. List video, borrowed authority, topical; hook ("3 hacks to manipulate you into falling in love with him") solid; good value; decent effort. Unsure why it beat the others; maybe topic relevance.
 - **Toni (roommate hacks)**: 3.7k views, 8 follows. Quick to make, original points he thinks are strong (rationing caffeine, earbuds, unusual networking spots). Thinks it was a hook/framing problem, not the content.
