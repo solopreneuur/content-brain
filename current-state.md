@@ -24,6 +24,16 @@ Three levels of certainty:
 - Considering starting a series. Thinks series are a strong way to get people coming back.
 - Says "case studies on founders" but hasn't made many, because the finesse format is more convenient.
 
+## Reference creators (how they describe what they teach)
+- Soojin: AI
+- Jane: young women becoming financially free
+- Eric: finance and investing
+- Aman: getting a software engineering job
+- Mino: becoming a content creator
+- Eric: Chinese
+- Eileen: life, marketing and business
+- Bitter Builds: productivity, mindset, tech. Thinks he's leaning more into productivity: big TAM, very specific framework that works great.
+
 ## Mix: 70/30
 - About 70% of videos are finessed, 30% everything else.
 - Why: his top video (rap) and second most viewed (Graham Bell) were both finessed. Thinks Graham Bell's poor conversion was the CTA or how the ending was structured, not the finesse. Finessing makes scripting much faster, which means more videos and more signal.
