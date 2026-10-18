@@ -34,6 +34,11 @@ Three levels of certainty:
 - Eileen: life, marketing and business
 - Bitter Builds: productivity, mindset, tech. Thinks he's leaning more into productivity: big TAM, very specific framework that works great.
 
+## Where his head is (Oct 18 evening)
+- Has three vehicles for higher-probability shots: the finesse tactic, the Bitter Builds method (not tested yet, will test), and the proven package method.
+- Feels at a crossroads and a bit confused again: knows how to make videos likelier to hit, but not who to aim them at.
+- Impressed by Bitter Builds: conversion is crazy, growing stupid fast.
+
 ## Mix: 70/30
 - About 70% of videos are finessed, 30% everything else.
 - Why: his top video (rap) and second most viewed (Graham Bell) were both finessed. Thinks Graham Bell's poor conversion was the CTA or how the ending was structured, not the finesse. Finessing makes scripting much faster, which means more videos and more signal.
