@@ -65,6 +65,21 @@ Savings targets lowered 4× in 2026; went negative Jul 2026. No income outside t
 | Processing happens outside the doc | all | emerging | 2025-11-24 | 2026-06-28 | 2026-04-05, 2026-06-07 |
 | Building tools as a revealed want | building | hunch | 2026-08-03 | 2026-10-18 | 2026-10-11 |
 
+## Actions in play
+
+Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his choice and results here.
+
+| # | Action | Works if | Status |
+|---|---|---|---|
+| 1 | Weigh in every Sunday, no "???" | 5 straight Sundays with a real number | suggested |
+| 2 | Environment over rules; no new food rules, home-cooked Saturdays | 0 new rules; most Saturdays cooked | suggested |
+| 3 | One "soul" piece a week, judged on its own | 4 shipped + an answer on what to keep making | suggested |
+| 4 | One ask a week, logged | 5 asks before Vietnam | suggested |
+| 5 | Ungate dating: a date with someone interested, then a second | second date happens | suggested |
+| 6 | Building goal: Creator Intelligence v0 by a date | v0 before Vietnam | suggested |
+| 7 | Close AI Meadow with 3 lessons; delete frozen lists; decide on Tasneem once | no dead lists in the doc | suggested |
+| 8 | Host the coffee event with Toni | happens before Vietnam | suggested |
+
 ## Open hypotheses
 
 1. The soul he's trading away in content is what would make 5–10 years sustainable. (2026-10-18)
