@@ -95,6 +95,13 @@ His own count: about 3 finesses + 1 known format + 1 "technically known" format 
 - **10/10 signs of low business IQ**: 22k views, 100 follows. Best metrics on paper besides rap's likes. Specific niche, honed in on teaching, lots of research. Hit something founders have heard ("they call themself the idea guy"); "low business IQ" makes people go "huh wtf." Annoyed it didn't crack 100k; maybe TAM.
 - **10/10 signs of extreme resourcefulness**: 4.6k views. Good value and originality but maybe abstract; "resourcefulness" may not be enough to care about; "productivity" or agency-adjacent might do better. The "low ___" versions seem to do better (people are more scared of being low); the multi-million versions he's seen were low IQ ones.
 
+## Why strong-start videos still convert poorly (Oct 19)
+Example: a video with a really strong start whose flip is "trust your intuition, don't offload all your thinking to AI" (similar to Graham Bell). It converted poorly because:
+1. Good informative video, but people don't care about watching another one.
+2. It doesn't connect to his brand.
+3. The takeaway never tied back to a brand line (e.g. "to deeply understand today's innovation").
+4. The CTA "follow for more unconventional wisdom" didn't land: the viewer doesn't know who he is or what that means.
+
 ## How he reads the data
 - Profile visits matter but aren't the top problem; doesn't want to be a data monkey. The real question is whether the video appealed hard enough that someone wants regular content like it.
 - Bio needs work.
