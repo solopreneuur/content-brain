@@ -24,6 +24,9 @@ Three levels of certainty:
 - Considering starting a series. Thinks series are a strong way to get people coming back.
 - Says "case studies on founders" but hasn't made many, because the finesse format is more convenient.
 
+## How he thinks about competition
+- Nobody owns a topic or lane. What matters is positioning and packaging. There are 100 creators like Soojin and they all do well. Never rule out a topic because someone else is in it.
+
 ## Reference creators (how they describe what they teach)
 - Soojin: AI
 - Jane: young women becoming financially free
