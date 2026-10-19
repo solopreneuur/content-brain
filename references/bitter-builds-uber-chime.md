@@ -1,0 +1,5 @@
+# uber chime
+
+Source: Bitter Builds (transcript)
+
+You ever been in an Uber and you hear this at the end of your ride? Believe it or not, that little noise has been one of Uber's most profitable decisions, and the psychology behind it will help you build better habits. See, Uber had a big problem. Their drivers would quit after just a handful of rides, like they just couldn't keep drivers on the platform, and it was costing them a ton of money. So geniusly, Uber turned to psychology to fix the issue. At the end of each ride, Uber automatically matches the driver to their next ride, hence the little chime noise. What this does is it removes all friction between drivers and the act of driving for Uber. And studies prove that this removal of friction is the best way to reinforce our own habits. You wanna go on morning runs? Start sleeping in your running clothes. You wanna read more? Keep your phone in the kitchen and fill your room with books. Because odds are you don't lack willpower, your environment just has way too much friction

@@ -1,0 +1,5 @@
+# 1m on the line curse of knowledge
+
+Source: Bitter Builds (transcript)
+
+$1 million on the line. If your friend was tapping the rhythm of Happy Birthday, could you guess correctly that it was Happy Birthday? Seems like a pretty obvious yes, right? This was actually a Stanford study in 1990, and only 2.5% of people got it right. The people tapping could hear the melody in their head, and it seemed so obvious, but the listeners just heard random taps. This is known as the curse of knowledge, and it explains why experts make such bad teachers. Because they skip steps that seem obvious to them but aren't obvious to anyone else. And they're simply unable to see the topic from the perspective of the beginner. Which is why beginners have such a huge advantage that nobody talks about. They have a fresh perspective and the ability to see the broader picture. Because it's not the expert in one field that's most creative, but the polymath that's acquired the ability to learn and can draw from multiple sources of inspiration
