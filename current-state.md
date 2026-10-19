@@ -49,7 +49,7 @@ Three levels of certainty:
 ## This week's lineup (Oct 19)
 Six videos:
 1. 10/10 low biz IQ (known format, his best metrics so far)
-2. Humanities sixth sense via the Bitter Builds method, maybe using the "1M on the line" angle directly. The flip isn't decided yet.
+2. Humanities sixth sense via the Bitter Builds method, opening on "$1 million on the line" (which side of the frame did the guy with two dogs enter; Scale AI benchmark, frontier models got it wrong; humans have a sixth sense = intuition). Flip decided: trust your intuition, don't offload all your thinking to AI. Strong start; he sees it as similar to Graham Bell and wants to avoid that video's conversion problems.
 3. Second Bitter Builds method video, modeled as closely as possible on one of his viral ones (Uber chime or the Olympian one)
 4. Running fat kid (original, lived experience; script in progress, not saved yet)
 5. Finesse 1
@@ -61,7 +61,7 @@ His own count: about 3 finesses + 1 known format + 1 "technically known" format 
 
 ## Mix: 70/30
 - About 70% of videos are finessed, 30% everything else.
-- Why: his top video (rap) and second most viewed (Graham Bell) were both finessed. Thinks Graham Bell's poor conversion was the CTA or how the ending was structured, not the finesse. Finessing makes scripting much faster, which means more videos and more signal.
+- Why: his top video (rap) and second most viewed (Graham Bell) were both finessed. Thinks Graham Bell's poor conversion came from the ending and brand tie, not the finesse (see Graham Bell under Performance). Finessing makes scripting much faster, which means more videos and more signal.
 
 ## How he finesses best
 - Same architecture, equivalent subject beats a direct copy. Rap to entrepreneur was modeled on a gym-bro-to-entrepreneur video, and Graham Bell on a Wright brothers one. Both did better than his straight copies.
@@ -89,7 +89,7 @@ His own count: about 3 finesses + 1 known format + 1 "technically known" format 
 - **Man in your 20s scrolling IG reels**: 3.1k views, 2 follows. Doesn't make much sense ("Kanye fan, Kendrick fan"), muddy; format maybe overused or didn't ship right.
 - **Actually know startups (Startup IQ)**: 5.3k views, 28 follows, 35 profile visits. Pure perceived value (spammed terms) and people followed.
 - **10 men every man in his 20s needs to study**: 3.3k views, 1 follow. Straight finesse, rage-bait principles, solid reposts/saves, but high early drop. Maybe wrong audience or format fatigue.
-- **Graham Bell**: 91k views, 85 follows, 71 profile visits. Very close to original script with the person swapped (chosen carefully), niche hook, motion. Weaker conversion than rap but makes sense.
+- **Graham Bell**: 91k views, 85 follows, 71 profile visits. Very close to original script with the person swapped (chosen carefully), niche hook, motion. His diagnosis of the weak conversion: (1) good informative video, but people don't care about watching another one; (2) no connection to his brand; (3) never said what the viewer gets, e.g. to deeply understand today's innovation; (4) "follow for more unconventional wisdom" means nothing when they don't know who he is.
 
 ### Original in a known format
 - **10/10 signs of low business IQ**: 22k views, 100 follows. Best metrics on paper besides rap's likes. Specific niche, honed in on teaching, lots of research. Hit something founders have heard ("they call themself the idea guy"); "low business IQ" makes people go "huh wtf." Annoyed it didn't crack 100k; maybe TAM.
