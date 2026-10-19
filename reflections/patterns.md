@@ -92,7 +92,7 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 
 ## His verdicts
 
-(none yet)
+- **2026-10-19 — rejected** the long-range fulfillment hypothesis (builder-explainer in public → small media/software studio → family-centered independence). His words: "No these are all assumptions and things change." Don't project long-range life paths from the archive; stick to observed patterns and what's changed over time.
 
 ## Faded or resolved
 
