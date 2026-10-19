@@ -1,6 +1,6 @@
 # Current state
 
-_Last updated 2026-10-18_
+_Last updated 2026-10-19_
 
 ## Priorities right now
 1. Understand why the videos so far did or didn't work (views, breaking 10k, follower conversion).
@@ -41,6 +41,19 @@ Three levels of certainty:
 - Has three vehicles for higher-probability shots: the finesse tactic, the Bitter Builds method (not tested yet, will test), and the proven package method.
 - Feels at a crossroads and a bit confused again: knows how to make videos likelier to hit, but not who to aim them at.
 - Impressed by Bitter Builds: conversion is crazy, growing stupid fast.
+
+## This week's lineup (Oct 19)
+Six videos:
+1. 10/10 low biz IQ (known format, his best metrics so far)
+2. Humanities sixth sense via the Bitter Builds method, maybe using the "1M on the line" angle directly. The flip isn't decided yet.
+3. Second Bitter Builds method video, modeled as closely as possible on one of his viral ones (Uber chime or the Olympian one)
+4. Running fat kid (original, lived experience; script in progress, not saved yet)
+5. Finesse 1
+6. Finesse 2
+
+His own count: about 3 finesses + 1 known format + 1 "technically known" format (BB1), so lighter on finesse than the 70/30 target. This is the first live test of the Bitter Builds method, and BB2 being a near-copy gives a comparison against the looser BB1.
+
+**Running fat kid concept:** after losing 135 lbs, he gets lapped on an NYC track at a low-8 pace (90th percentile for a 5k), even by a guy with a stroller. Turns out they're D1 athletes and record chasers. The turn: your phone is the same track. The people who've made it online are the exceptional types, so focus on your own path. Considering a Graham Bell-style visual hook (zoom on his old photo), a gym-class mile memory right after the hook, and delaying the 90th-percentile stat to the end. Open question: two realizations or one connected one.
 
 ## Mix: 70/30
 - About 70% of videos are finessed, 30% everything else.
