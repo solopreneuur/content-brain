@@ -40,9 +40,10 @@ Three levels of certainty:
 - Eileen: life, marketing and business
 - Bitter Builds: productivity, mindset, tech. Thinks he's leaning more into productivity: big TAM, very specific framework that works great.
 
-## Where his head is (Oct 18 evening)
+## Where his head is (Oct 19)
 - Has three vehicles for higher-probability shots: the finesse tactic, the Bitter Builds method (not tested yet, will test), and the proven package method.
-- Feels at a crossroads and a bit confused again: knows how to make videos likelier to hit, but not who to aim them at.
+- Getting genuinely good at finding and packaging videos. The bottleneck has moved to the takeaway: he gets stuck at the end of a script because he doesn't know what his brand is, so he doesn't know what the video should leave people with.
+- Analysis paralysis on exactly which ICP to nail. Same crossroads as Oct 18: knows how to make videos likelier to hit, but not who to aim them at.
 - Impressed by Bitter Builds: conversion is crazy, growing stupid fast.
 
 ## This week's lineup (Oct 19)
