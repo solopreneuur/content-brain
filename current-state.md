@@ -59,6 +59,10 @@ His own count: about 3 finesses + 1 known format + 1 "technically known" format 
 - About 70% of videos are finessed, 30% everything else.
 - Why: his top video (rap) and second most viewed (Graham Bell) were both finessed. Thinks Graham Bell's poor conversion was the CTA or how the ending was structured, not the finesse. Finessing makes scripting much faster, which means more videos and more signal.
 
+## How he finesses best
+- Same architecture, equivalent subject beats a direct copy. Rap to entrepreneur was modeled on a gym-bro-to-entrepreneur video, and Graham Bell on a Wright brothers one. Both did better than his straight copies.
+- Applying it to BB2: keep the Uber chime structure exactly, but swap in a different, very specific sound with a company problem behind it.
+
 ## The four video types
 - **Fully original**: his own thoughts (hook structure may be borrowed).
 - **Finessed**: take a video idea he sees, rip most of it, add his twist.
