@@ -27,6 +27,9 @@ Three levels of certainty:
 ## How he thinks about competition
 - Nobody owns a topic or lane. What matters is positioning and packaging. There are 100 creators like Soojin and they all do well. Never rule out a topic because someone else is in it.
 
+## On accuracy in short-form
+- Short-form doesn't need to be exact. Inferred cause and effect is fine for the story (e.g. safety rule → doors sound cheap → Mercedes engineers the thunk). Don't flag simplified causality or rhetorical stakes. Only flag something that's flatly false.
+
 ## Reference creators (how they describe what they teach)
 - Soojin: AI
 - Jane: young women becoming financially free
