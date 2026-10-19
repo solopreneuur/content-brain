@@ -38,6 +38,7 @@ Three levels of certainty:
 - Mino: becoming a content creator
 - Eric: Chinese
 - Eileen: life, marketing and business
+- Yuvan (friend): clearing up misconceptions about Indians. His example of how specific and clean the one-line lane can be.
 - Bitter Builds: productivity, mindset, tech. Thinks he's leaning more into productivity: big TAM, very specific framework that works great.
 
 ## Where his head is (Oct 19)
