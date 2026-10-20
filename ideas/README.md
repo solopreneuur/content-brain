@@ -1,6 +1,8 @@
 # Video ideas from Apple Notes
 
-Every note from **Content/personal branding** (the main folder plus the Hook exercise subfolder), one file per note, text untouched. Pulled 2026-10-19.
+Every note from **Content/personal branding** (the main folder plus the Hook exercise subfolder), one file per note, text untouched.
+
+**Last pulled:** 2026-10-19 20:55 ET (Hook exercise). The main folder is frozen as of 2026-10-19; only Hook exercise gets refreshed.
 
 **512 notes total:** 351 in the main folder (Oct 2025 – Sep 2026), 161 in Hook exercise (Aug 26 – Oct 19, 2026). 108 are title-only.
 
