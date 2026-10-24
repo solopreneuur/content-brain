@@ -94,6 +94,8 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 
 - **2026-10-19 — rejected** the long-range fulfillment hypothesis (builder-explainer in public → small media/software studio → family-centered independence). His words: "No these are all assumptions and things change." Don't project long-range life paths from the archive; stick to observed patterns and what's changed over time.
 
+- **2026-10-24 — his own assessment of 10 months in NYC.** His words: "I understand leverage much better now, not getting piegeonholed in optimization and I started being more honest about my flaws instead of being in denial." Evidence check: leverage and honesty about flaws are strongly backed (2026-08-23, 09-06, 09-13; 02-15, 06-07, 07-20, 08-30, 10-04). Less optimization holds for content (09-20, 09-28, 10-04, batch recording 10-18) but has moved into food and the three builds (10-18). Honesty covers flaws more than fears: parents, talent and money appear in his idea notes (09-15, 09-17), not in the reflections.
+
 ## Faded or resolved
 
 - Office "yapping" as a time sink — faded after the NYC move (2026-01).
