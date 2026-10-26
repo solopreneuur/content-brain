@@ -67,6 +67,10 @@ Savings targets lowered 4× in 2026; went negative Jul 2026. No income outside t
 | Outside help works when he uses it | content, health | emerging | 2026-09-20 | 2026-10-25 | content coach feedback "literally doubled the views" (09-20); "learned it's okay to get outside help" (10-25) |
 | Health story named as biggest leverage, gated on finishing the cut | content, health | emerging | 2025-09-29 | 2026-10-25 | "sharing my weight loss journey... actual moat" (2025-09-29); "Health I'm not there yet... my biggest leverage point" (2026-10-25) |
 | Hosting/events said, not recorded as done | social, business | emerging | 2026-07-05 | 2026-10-25 | hosting "next week" (07-05, no follow-up 07-12); host with Toni (08-23); "one event a week" never added to checklist (10-04); "go to more/host more events" (10-25) |
+| Gravitates to permissionless leverage (code, media); avoids leverage that needs asking (sales, partners, capital, hiring) | business, content, social | strong | 2024-12-22 | 2026-10-25 | "automated MARKETING, not sales" (2024-12-22); outbound "hate and dread" (2025-04-28); paid academy works because no ask (2026-09-06) |
+| Optionality kept open, capture mechanism never picked | business, content, money | strong | 2025-02-03 | 2026-10-25 | "keeping my options open" (2025-02-03); "learn about brands and how to monetize" (2026-01-08); brand deal goal removed (2026-10-04); "many ways to make money once I figure it out" (2026-10-25) |
+| "Pre built distribution people via private network" carried 65 entries unchecked, dropped, resurfaced | business | strong | 2025-02-03 | 2026-10-25 | carried 2025-02-03 → 2026-08-03; "sell to a pre built distribution entity that lives on top of creators" (2026-10-25) |
+| Code pointed inward (tools for himself since AI Meadow) | building | emerging | 2026-07-26 | 2026-10-25 | World Intelligence, second brain, trial reels skill, Creator Intelligence (2026-10-11, 10-18, 10-25) |
 
 ## Actions in play
 
