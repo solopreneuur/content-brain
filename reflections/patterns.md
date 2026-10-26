@@ -65,6 +65,8 @@ Savings targets lowered 4× in 2026; went negative Jul 2026. No income outside t
 | Processing happens outside the doc | all | emerging | 2025-11-24 | 2026-06-28 | 2026-04-05, 2026-06-07 |
 | Building tools as a revealed want | building | hunch | 2026-08-03 | 2026-10-18 | 2026-10-11 |
 | Outside help works when he uses it | content, health | emerging | 2026-09-20 | 2026-10-25 | content coach feedback "literally doubled the views" (09-20); "learned it's okay to get outside help" (10-25) |
+| Health story named as biggest leverage, gated on finishing the cut | content, health | emerging | 2025-09-29 | 2026-10-25 | "sharing my weight loss journey... actual moat" (2025-09-29); "Health I'm not there yet... my biggest leverage point" (2026-10-25) |
+| Hosting/events said, not recorded as done | social, business | emerging | 2026-07-05 | 2026-10-25 | hosting "next week" (07-05, no follow-up 07-12); host with Toni (08-23); "one event a week" never added to checklist (10-04); "go to more/host more events" (10-25) |
 
 ## Actions in play
 
@@ -90,6 +92,8 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 5. The stall is fear of using people or being rejected when asking, not discomfort with people. (2026-10-18)
 6. Single-lever diagnoses are a reset ritual more than a diagnosis. (2026-10-18)
 7. Building tools is a revealed want on par with content. (2026-10-18)
+8. "Do I even like this" is about consumption (scrolling, format-copying adopted 2026-09-28), not making; he likes making (2025-12-29, 2026-04-12, 2026-07-20, storytelling "I do like making them" 2026-10-25). (2026-10-25)
+9. The leverage menu (content vs charisma vs building) is a stack, not a choice; his own note: "don't chase it yet, stack on your current strength" (2026-04-05); the agency/creator-program product idea (2026-10-25) is the first venture idea inside his own world. (2026-10-25)
 
 ## His verdicts
 
