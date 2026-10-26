@@ -86,6 +86,7 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 | 6 | Building goal: Creator Intelligence v0 by a date | v0 before Vietnam | 2026-10-25: "whole build designed", planned this week, not on the checklist |
 | 7 | Close AI Meadow with 3 lessons; delete frozen lists; decide on Tasneem once | no dead lists in the doc | suggested |
 | 8 | Host the coffee event with Toni | happens before Vietnam | suggested |
+| 9 | Outside help for eating, first appointment before the trip | first session happens before Vietnam | 2026-10-25: he asked who to talk to |
 
 ## Open hypotheses
 
