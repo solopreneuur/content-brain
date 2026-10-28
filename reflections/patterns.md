@@ -66,7 +66,6 @@ Savings targets lowered 4× in 2026; went negative Jul 2026. No income outside t
 | Building tools as a revealed want | building | hunch | 2026-08-03 | 2026-10-18 | 2026-10-11 |
 | Outside help works when he uses it | content, health | emerging | 2026-09-20 | 2026-10-25 | content coach feedback "literally doubled the views" (09-20); "learned it's okay to get outside help" (10-25) |
 | Health story named as biggest leverage, gated on finishing the cut | content, health | emerging | 2025-09-29 | 2026-10-25 | "sharing my weight loss journey... actual moat" (2025-09-29); "Health I'm not there yet... my biggest leverage point" (2026-10-25) |
-| Hosting/events said, not recorded as done | social, business | emerging | 2026-07-05 | 2026-10-25 | hosting "next week" (07-05, no follow-up 07-12); host with Toni (08-23); "one event a week" never added to checklist (10-04); "go to more/host more events" (10-25) |
 | Gravitates to permissionless leverage (code, media); avoids leverage that needs asking (sales, partners, capital, hiring) | business, content, social | strong | 2024-12-22 | 2026-10-25 | "automated MARKETING, not sales" (2024-12-22); outbound "hate and dread" (2025-04-28); paid academy works because no ask (2026-09-06) |
 | Optionality kept open, capture mechanism never picked | business, content, money | strong | 2025-02-03 | 2026-10-25 | "keeping my options open" (2025-02-03); "learn about brands and how to monetize" (2026-01-08); brand deal goal removed (2026-10-04); "many ways to make money once I figure it out" (2026-10-25) |
 | "Pre built distribution people via private network" carried 65 entries unchecked, dropped, resurfaced | business | strong | 2025-02-03 | 2026-10-25 | carried 2025-02-03 → 2026-08-03; "sell to a pre built distribution entity that lives on top of creators" (2026-10-25) |
@@ -86,7 +85,7 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 | 5 | Ungate dating: a date with someone interested, then a second | second date happens | suggested |
 | 6 | Building goal: Creator Intelligence v0 by a date | v0 before Vietnam | 2026-10-25: "whole build designed", planned this week, not on the checklist |
 | 7 | Close AI Meadow with 3 lessons; delete frozen lists; decide on Tasneem once | no dead lists in the doc | suggested |
-| 8 | Host the coffee event with Toni | happens before Vietnam | suggested |
+| 8 | Host the coffee event with Toni | happens before Vietnam | already doing it: hosted two cafes at his apartment; flakes came from the Sunday-morning slot, which he is changing (his words, 2026-10-27) |
 | 9 | Outside help for eating, first appointment before the trip | first session happens before Vietnam | 2026-10-25: he asked who to talk to |
 
 ## Open hypotheses
@@ -101,13 +100,15 @@ Suggested 2026-10-18 (five weeks before Vietnam). Not yet taken on; record his c
 8. "Do I even like this" is about consumption (scrolling, format-copying adopted 2026-09-28), not making; he likes making (2025-12-29, 2026-04-12, 2026-07-20, storytelling "I do like making them" 2026-10-25). (2026-10-25)
 9. The leverage menu (content vs charisma vs building) is a stack, not a choice; his own note: "don't chase it yet, stack on your current strength" (2026-04-05); the agency/creator-program product idea (2026-10-25) is the first venture idea inside his own world. (2026-10-25)
 10. Unfair games carry a built-in out: a loss is the handicap's fault, a win is a legend story. Several "unfair" games were won (CS → SDE2, half marathon, quitting vaping), so the cost may be the comparison more than the game. (2026-10-27, chat)
-11. His unfair advantage is the overlap he already names: builds + explains complex things well + in-person charisma; the "degen" years are where the charisma came from (10-25). Charisma is the least-used of the three. (2026-10-27, chat)
+11. His unfair advantage is the overlap he already names: builds + explains complex things well + in-person charisma; the "degen" years are where the charisma came from (10-25). (2026-10-27, chat)
 
 ## His verdicts
 
 - **2026-10-19 — rejected** the long-range fulfillment hypothesis (builder-explainer in public → small media/software studio → family-centered independence). His words: "No these are all assumptions and things change." Don't project long-range life paths from the archive; stick to observed patterns and what's changed over time.
 
 - **2026-10-24 — his own assessment of 10 months in NYC.** His words: "I understand leverage much better now, not getting piegeonholed in optimization and I started being more honest about my flaws instead of being in denial." Evidence check: leverage and honesty about flaws are strongly backed (2026-08-23, 09-06, 09-13; 02-15, 06-07, 07-20, 08-30, 10-04). Less optimization holds for content (09-20, 09-28, 10-04, batch recording 10-18) but has moved into food and the three builds (10-18). Honesty covers flaws more than fears: parents, talent and money appear in his idea notes (09-15, 09-17), not in the reflections.
+
+- **2026-10-27 — corrected** the "hosting said, not done" pattern; it was wrong and is removed. He has hosted a 2016-themed party (~mid-Aug 2026) and two cafes in his apartment; he didn't write much about them because momentum is early. Flakes came from timing them on Sunday mornings, which he won't do again. Lesson for reads: absence from the reflections is not absence from his life (see "Processing happens outside the doc").
 
 ## Faded or resolved
 
